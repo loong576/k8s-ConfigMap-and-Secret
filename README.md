@@ -81,7 +81,7 @@
 ### 3.1 创建docker-registry secret
 ### 3.2 创建私有镜像loong576/test
 ### 3.3 创建pod private-pod-secret
-### 3.4 pod中secret查看
+### 3.4 pod中查看secret
 ## 4. 更新Secret
 
 
